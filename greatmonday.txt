@@ -1,0 +1,21 @@
+ Volume in drive C is OS
+ Volume Serial Number is 469B-8F81
+
+ Directory of C:\Users\bhanu\OneDrive\Desktop\BhanuQL
+
+06/25/2018  03:54 PM    <DIR>          .
+06/25/2018  03:54 PM    <DIR>          ..
+06/23/2018  10:26 AM            82,997 BhanuCentos.PNG
+06/21/2018  11:23 PM           103,902 GIT HUB CHEAT SHEET.png
+06/25/2018  03:54 PM                 0 greatmonday.txt
+06/25/2018  03:22 PM               469 Hello.class
+06/25/2018  03:13 PM               153 Hello.java
+05/31/2018  01:22 PM               425 jenkins.txt
+06/18/2018  05:42 PM           183,396 LinuxCommandLineCheatSheet.pdf
+05/28/2018  08:14 PM             1,845 openings.txt
+06/01/2018  04:34 PM             1,871 OpeningsIndia.txt
+06/08/2018  05:04 PM             1,754 Quicklookup.txt
+05/28/2018  06:15 PM             1,129 Quicklookup.txt.bak
+05/28/2018  12:08 PM    <DIR>          ZEKE
+              11 File(s)        377,941 bytes
+               3 Dir(s)  826,724,745,216 bytes free
